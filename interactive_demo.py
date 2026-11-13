@@ -1,9 +1,9 @@
 # Let's explore interactive mode
-name = "Python Shihab"
+name = "Shihab"
 print(f"Hello, {name}!")
 
 # Some data to work with
-numbers = [1, 2, 3, 4, 5]
+numbers = [1, 2, 3, 4, 5 ,6]
 print(f"Numbers: {numbers}")
 
 # Calculate something
